@@ -1,2 +1,3 @@
 * Elastic Beanstalk
-![test image](screenshot/ebdeploy-test.png)
+<br>
+![test image](screenshot/ebdeploy-test.PNG)
